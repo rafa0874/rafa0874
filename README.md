@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brgss
+- 👀 I’m interested in scripts or codes in kotlin and lua.
+- 🌱 I’m currently learning a new codes linguage.
+- 💞️ I’m looking to collaborate on Vamzon discord bot
+- 📫 How to reach me send me a message on discord my discord is brgs#1330
